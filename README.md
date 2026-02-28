@@ -20,5 +20,7 @@
 
 ##### Confira tudo o que temos no
 
-##### nosso YouTube. É gratis!
+##### nosso YouTube. É gratis! Segue o link:
+
+[Curso Git 2026] (http://youtube.com/@teomewhy)
 
