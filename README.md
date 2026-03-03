@@ -24,3 +24,6 @@
 
 [Curso Git 2026] (http://youtube.com/@teomewhy)
 
+Além do nosso canal do YouTube, se ligue no nosso site e agenda para ficar por dentro de tudo que vai rolar em 2025.
+
+[teomewhy.org] (http://teomewhy.org/schedule)
